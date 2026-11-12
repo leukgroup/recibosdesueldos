@@ -1,0 +1,6 @@
+# Los recibos contienen datos personales (CUIL, sueldos): nunca subirlos al repo
+*.pdf
+*.PDF
+entrada/
+salida/
+__pycache__/
